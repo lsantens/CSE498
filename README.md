@@ -1,4 +1,4 @@
-# CSE498
+# CSE498 for Fall 2023 LU Leonardo Santens
 CSE498 Final Reinforcement Learning Bicopter Soft-Actor-Critic
 
 This project uses CoppeliaSim and the remoteAPI for python interaction. For SAC implementation, Stable Baseline3 is used.
